@@ -7,9 +7,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>43b795f7-8ffa-4b5d-b345-e8baedb86bfb</dataFileGUID>
-   <dataSourceUrl>C:\Users\yoges\Katalon Studio\Web UI Automation\Data Files\excel\KatalonAutomation.xlsx</dataSourceUrl>
+   <dataSourceUrl>Data Files/excel/KatalonAutomation.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Login</sheetName>
