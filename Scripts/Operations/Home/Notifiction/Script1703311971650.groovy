@@ -25,5 +25,9 @@ WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/p_M
 
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/button_All Messages'))
 
-WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/a_SMS'))
+WebUI.click(findTestObject('Menu/Home/Declare/Page_greytHR/a_SMS'))
+
+WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Checkpoint'), false)
+
+WebUI.takeScreenshotAsCheckpoint('MessageCenter')
 

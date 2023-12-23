@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Testdata/Login</source-url>
+   </source-info>
+   <taken-date>2023-12-23T16:02:24.887</taken-date>
+   <column-names>
+      <column-name>user</column-name>
+      <column-name>password</column-name>
+      <column-name>screen</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "433",
+      "checked": false
+    },
+    {
+      "value": "v2hNRcSmpQIGSBa9yU4OGA\u003d\u003d",
+      "checked": false
+    },
+    {
+      "value": "Message Center",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
