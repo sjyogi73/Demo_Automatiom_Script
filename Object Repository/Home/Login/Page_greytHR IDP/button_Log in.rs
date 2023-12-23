@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log in</name>
+   <tag></tag>
+   <elementGuidId>c66b1e30-6f53-46af-838b-6cb573753050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mb-9.bg-primary.h-21.items-center.justify-center.text-white.flex.w-full.text-7gpx.font-body-semibold.rounded-gt-md-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>790aa601-60be-4992-95fa-85a19c508b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>065848ad-f504-488d-b65e-d5d67fdfb248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-9 bg-primary h-21 items-center justify-center text-white flex w-full text-7gpx font-body-semibold rounded-gt-md-3</value>
+      <webElementGuid>ea544b96-3c48-4e1e-bf20-a783328d4373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Log in </value>
+      <webElementGuid>cd37cbea-fc99-49cf-b570-f1f5cc175f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/uas-portal[1]/div[@class=&quot;h-100 d-flex app w-100 overflow-hidden&quot;]/div[@class=&quot;container-fluid d-flex flex-column px-0&quot;]/main[@class=&quot;d-flex flex-grow-1 h-100 w-100 md:mt-0 sm:mt-55 mt-50&quot;]/div[@class=&quot;container-fluid align-self-center&quot;]/section[@class=&quot;row flex-nowrap min-h-section&quot;]/div[@class=&quot;article m-auto mt-0 sm:mt-auto sm:pl-15x sm:self-center md:pt-0&quot;]/o-auth[1]/section[@class=&quot;d-flex flex-grow-1 h-auto shadow-nx rounded-gt-md-7 p-12 w-fit-content&quot;]/div[@class=&quot;container-fluid align-self-center&quot;]/app-login[1]/section[@class=&quot;row login-container w-185 custom-login&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;animate-opacity&quot;]/div[@class=&quot;form-container w-full flex flex-col&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/button[@class=&quot;mb-9 bg-primary h-21 items-center justify-center text-white flex w-full text-7gpx font-body-semibold rounded-gt-md-3&quot;]</value>
+      <webElementGuid>ea105070-5e91-45d6-8771-98f8d5d9f7ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>e5e1363c-07ca-4510-8353-1342b15410fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::button[1]</value>
+      <webElementGuid>9260d77b-caa5-4212-ba1a-c6202d803c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>2135fb88-790e-4796-9c99-8a1031e305c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or sign in with'])[1]/preceding::button[1]</value>
+      <webElementGuid>202cd548-4118-4db6-a9e1-2b764579c4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Letter Creator Suite'])[1]/preceding::button[1]</value>
+      <webElementGuid>d16bf309-34d2-440b-b326-ebdfb4351cdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>ec53954e-d0d6-4107-9585-e0cce52d02fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>9474ac46-53dd-4049-b508-8d6ebdffebb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Log in ' or . = ' Log in ')]</value>
+      <webElementGuid>b426dcb8-0afb-4866-8b05-7229fe5088af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

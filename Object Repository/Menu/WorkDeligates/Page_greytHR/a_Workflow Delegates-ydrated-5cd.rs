@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Workflow Delegates-ydrated-5cd</name>
+   <tag></tag>
+   <elementGuidId>3763a427-db28-408c-8cb2-4341c17b28a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav.w-full > ul > span.collapsed > li > a.primary-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Workflow Delegates')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9951c7d9-52e9-4067-b33a-7a14652a7105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primary-link</value>
+      <webElementGuid>72e3266e-a0f7-4621-8c99-a1f3214c5b63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Workflow Delegates</value>
+      <webElementGuid>4089dd74-34cc-4ed9-96f1-36a68f8c8d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/nav[@class=&quot;w-full&quot;]/ul[1]/span[@class=&quot;collapsed&quot;]/li[1]/a[@class=&quot;primary-link&quot;]</value>
+      <webElementGuid>f6b6af94-4d7d-45f8-87a6-356bbaeee88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/WorkDeligates/Page_greytHR/gt-ess-menu_View My Info_ng-star-inserted hydrated</value>
+      <webElementGuid>f933d80e-57ef-4ba8-811b-7628e8a32f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>67677569-2460-4fd9-97af-d683f0646926</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Workflow Delegates')]</value>
+      <webElementGuid>7783956c-eb6a-4f6f-8c37-66b99eb9d287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>cc6a77bd-6ab1-4e5d-8af3-dee5746b912d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Workflow Delegates' or . = 'Workflow Delegates')]</value>
+      <webElementGuid>b74e5d2b-dffe-4909-abaa-1c62706bc625</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

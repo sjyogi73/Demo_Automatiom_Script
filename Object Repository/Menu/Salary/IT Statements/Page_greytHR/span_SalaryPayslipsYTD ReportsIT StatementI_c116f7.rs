@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SalaryPayslipsYTD ReportsIT StatementI_c116f7</name>
+   <tag></tag>
+   <elementGuidId>a162ab5d-d5ba-4aac-80e6-96fff0ceed56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav.w-full > ul > span.collapsed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93418387-c5df-4e45-9921-e330c3d7e18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsed</value>
+      <webElementGuid>d9561b03-71e2-4bb5-97a2-0fdec785ceb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SalaryPayslipsYTD ReportsIT StatementIT DeclarationLoans and AdvancesReimbursementProof Of InvestmentSalary Revision</value>
+      <webElementGuid>eb40b4be-8b94-4e50-b0c0-60cddc403fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/nav[@class=&quot;w-full&quot;]/ul[1]/span[@class=&quot;collapsed&quot;]</value>
+      <webElementGuid>5fefad97-53f7-4f3d-9820-6d356df3588f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Salary/IT Statements/Page_greytHR/gt-ess-menu_View My Info_ng-star-inserted hydrated</value>
+      <webElementGuid>b0f7e9d4-8612-4c5a-9a70-64bcf3e92a0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0a26e08b-4371-421a-a0e6-511226328ed8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>770c9b97-52a2-45bb-889a-3fd9d8f7b960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SalaryPayslipsYTD ReportsIT StatementIT DeclarationLoans and AdvancesReimbursementProof Of InvestmentSalary Revision' or . = 'SalaryPayslipsYTD ReportsIT StatementIT DeclarationLoans and AdvancesReimbursementProof Of InvestmentSalary Revision')]</value>
+      <webElementGuid>19400ad8-88b8-4f79-baef-6c9004e221f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

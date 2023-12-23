@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Whoops  Seems that either username or _53512b</name>
+   <tag></tag>
+   <elementGuidId>3c5d581e-da3f-4922-b3f6-21f054cce377</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form[name=&quot;form&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@name='form']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>1dd584ea-4abc-49cd-b9e5-998aea85b641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>9ff62dfc-d17c-4bc9-b8e8-81e3fe38f06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-dirty ng-touched ng-valid</value>
+      <webElementGuid>3c9294e7-dcd5-4045-a137-2e34c9f6c970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Whoops!  Seems that either username or password isn't right. We could help you reset your password. Login IDPassword Forgot password?  Log in </value>
+      <webElementGuid>55dcc245-3557-4551-ab00-fc2429460d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/uas-portal[1]/div[@class=&quot;h-100 d-flex app w-100 overflow-hidden&quot;]/div[@class=&quot;container-fluid d-flex flex-column px-0&quot;]/main[@class=&quot;d-flex flex-grow-1 h-100 w-100 md:mt-0 sm:mt-55 mt-50&quot;]/div[@class=&quot;container-fluid align-self-center&quot;]/section[@class=&quot;row flex-nowrap min-h-section&quot;]/div[@class=&quot;article m-auto mt-0 sm:mt-auto sm:pl-15x sm:self-center md:pt-0&quot;]/o-auth[1]/section[@class=&quot;d-flex flex-grow-1 h-auto shadow-nx rounded-gt-md-7 p-12 w-fit-content&quot;]/div[@class=&quot;container-fluid align-self-center&quot;]/app-login[1]/section[@class=&quot;row login-container w-185 custom-login&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;animate-opacity&quot;]/div[@class=&quot;form-container w-full flex flex-col&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]</value>
+      <webElementGuid>6fd141d5-977f-4f38-81d8-2d1aa6ec68f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@name='form']</value>
+      <webElementGuid>9f03d3bb-8cd1-4b31-b205-bf405e67febf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='👋'])[1]/following::form[1]</value>
+      <webElementGuid>1ec0b694-0883-43b3-9c75-0070643a4a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>e678c268-0d3b-4e65-95cd-1db111eeb2d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[@name = 'form' and (text() = concat(&quot; Whoops!  Seems that either username or password isn&quot; , &quot;'&quot; , &quot;t right. We could help you reset your password. Login IDPassword Forgot password?  Log in &quot;) or . = concat(&quot; Whoops!  Seems that either username or password isn&quot; , &quot;'&quot; , &quot;t right. We could help you reset your password. Login IDPassword Forgot password?  Log in &quot;))]</value>
+      <webElementGuid>d170be8f-fa05-4615-a04d-2276c44b250f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

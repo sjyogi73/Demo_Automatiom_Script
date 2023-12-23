@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>gt-ess-menu_View My Info_ng-star-inserted hydrated</name>
+   <tag></tag>
+   <elementGuidId>0a2df89e-a6b4-41b5-8f17-1f4b4aa273d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>gt-ess-menu.ng-star-inserted.hydrated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='mainSidebar']/perfect-scrollbar/div/div/gt-ess-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>gt-ess-menu</value>
+      <webElementGuid>92de5b47-00e3-4ed7-a7f2-243bd67600e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted hydrated</value>
+      <webElementGuid>11b04e40-886a-462d-8aab-6a20d25ba2e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;desktop-view&quot;]/div[@class=&quot;side-and-content&quot;]/gt-sidebar[@class=&quot;ng-star-inserted&quot;]/aside[@id=&quot;mainSidebar&quot;]/perfect-scrollbar[1]/div[@class=&quot;ps&quot;]/div[@class=&quot;ps-content&quot;]/gt-ess-menu[@class=&quot;ng-star-inserted hydrated&quot;]</value>
+      <webElementGuid>e5031b61-3fd1-4639-8857-f0b53727f56e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='mainSidebar']/perfect-scrollbar/div/div/gt-ess-menu</value>
+      <webElementGuid>0717ff5a-8561-4f4a-ad94-4127f4f48e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//gt-ess-menu</value>
+      <webElementGuid>874be4a8-0474-4de8-a923-bf1f63b54c49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

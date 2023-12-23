@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_IT Declaration-ydrated-565</name>
+   <tag></tag>
+   <elementGuidId>42c01b1b-d104-4c49-8b8b-f9efe693bf48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav.w-full > ul > span.expanded > ul.secondary-nav > li:nth-of-type(4) > a.secondary-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'IT Declaration')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00e7060c-c075-449f-963e-10b33ab9a5fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>secondary-link</value>
+      <webElementGuid>4052941e-d558-459f-95e0-88391d8489e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IT Declaration</value>
+      <webElementGuid>e8a4c926-3b67-40c6-aa38-3828fdebeb88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/nav[@class=&quot;w-full&quot;]/ul[1]/span[@class=&quot;expanded&quot;]/ul[@class=&quot;secondary-nav&quot;]/li[4]/a[@class=&quot;secondary-link&quot;]</value>
+      <webElementGuid>7dcd0085-2204-40f0-a194-79c346477542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>32eaba50-5d7f-4e96-a3ac-4f40c82ca3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Salary/IT Declarations/Page_greytHR/gt-ess-menu_View My Info_ng-star-inserted hydrated</value>
+      <webElementGuid>4d8788e0-0d6a-4402-a8ce-81bbc511b73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1499ec6d-b743-4917-bb7b-09ffbfe6bdc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'IT Declaration')]</value>
+      <webElementGuid>93f92ed7-6bfb-472a-99be-8e759c388b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IT Declaration']/parent::*</value>
+      <webElementGuid>54e36ae5-422d-45c0-a89c-562f36f68a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'IT Declaration' or . = 'IT Declaration')]</value>
+      <webElementGuid>2062c422-07ae-4c1b-a889-c94675fcd7b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

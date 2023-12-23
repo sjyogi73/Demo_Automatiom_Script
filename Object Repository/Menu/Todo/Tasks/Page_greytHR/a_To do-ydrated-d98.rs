@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_To do-ydrated-d98</name>
+   <tag></tag>
+   <elementGuidId>d0b15a28-bfd7-49e1-b11f-4a37fe13eb48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav.w-full > ul > span.collapsed > li > a.primary-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'To do')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>20655cc8-5d5d-422e-86ef-82f66c392a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primary-link</value>
+      <webElementGuid>00ddb102-d8b5-49ed-b312-900b8bb4dcab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>To do</value>
+      <webElementGuid>200f0096-2a88-4d9b-804c-9e2223b938a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/nav[@class=&quot;w-full&quot;]/ul[1]/span[@class=&quot;collapsed&quot;]/li[1]/a[@class=&quot;primary-link&quot;]</value>
+      <webElementGuid>8fa92c66-691e-4c1a-8a2a-2bcd4299ee92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Todo/Tasks/Page_greytHR/gt-ess-menu_View My Info_ng-star-inserted hydrated</value>
+      <webElementGuid>befbc3e4-7ad5-4878-9712-351ee4107e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>011907d9-3e55-4391-a36f-6a0c12132ad0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'To do')]</value>
+      <webElementGuid>d557cadf-79cb-46f5-9b3d-9e255957672e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>0bff6cb1-5f37-414b-a5e9-3522bd49880a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'To do' or . = 'To do')]</value>
+      <webElementGuid>60ce9691-8cd3-48ab-9422-81f7e0159268</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

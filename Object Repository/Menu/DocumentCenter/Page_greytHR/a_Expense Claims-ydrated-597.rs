@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Expense Claims-ydrated-597</name>
+   <tag></tag>
+   <elementGuidId>d315b32b-4b6b-4af1-bc32-5ebecb77f2fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav.w-full > ul > span.collapsed > li > a.primary-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Expense Claims')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ba7ed519-ac78-4923-b66f-c8df1cab26be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primary-link</value>
+      <webElementGuid>74a3c65b-b76d-443f-b0e5-a68bc8bd979b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expense Claims</value>
+      <webElementGuid>5126777b-0d84-4d5a-b4ed-eb1c9fbd2d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/nav[@class=&quot;w-full&quot;]/ul[1]/span[@class=&quot;collapsed&quot;]/li[1]/a[@class=&quot;primary-link&quot;]</value>
+      <webElementGuid>a00e6cf0-7b7d-471c-9a70-ad4e4dee606a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/DocumentCenter/Page_greytHR/gt-ess-menu_View My Info_ng-star-inserted hydrated</value>
+      <webElementGuid>68b36218-5c67-4e61-8d92-4b9082abe7b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>787e711a-a17d-46e6-9059-518bb2c538c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Expense Claims')]</value>
+      <webElementGuid>3c92e8ba-dbe4-4020-b8d9-55a361f5aaf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>b00dc0f3-8b8f-49ee-ad89-d1a9763a12ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Expense Claims' or . = 'Expense Claims')]</value>
+      <webElementGuid>b392d06c-51d1-47ab-b7f7-167c7092f0ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

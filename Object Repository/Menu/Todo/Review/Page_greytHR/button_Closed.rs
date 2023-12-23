@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Closed</name>
+   <tag></tag>
+   <elementGuidId>200893ac-4c0f-4574-9a69-ea49b9c2c37c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e12f1c5a-45cb-453a-a067-dfc752fec2ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+      <webElementGuid>270fcb16-1222-408e-bd4e-242de8735eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Closed </value>
+      <webElementGuid>e8f8592e-8806-44dd-86c3-03b7b3dc1a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;desktop-view&quot;]/div[@class=&quot;side-and-content&quot;]/div[@class=&quot;container-fluid app-container px-0&quot;]/div[@class=&quot;router-container pb-15 container-fluid&quot;]/workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wf-review&quot;]/div[@class=&quot;row wf-review-content&quot;]/div[@class=&quot;col-md-9 col-lg-9 py-2x ml-3x&quot;]/attendance-regularization-review-listing[@class=&quot;ng-star-inserted&quot;]/gt-workflow-list[1]/div[@class=&quot;workflow-list-view&quot;]/div[@class=&quot;btn-group ng-star-inserted&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>3b7a1de1-a61d-48f1-be2c-b93ace6c4841</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::button[1]</value>
+      <webElementGuid>5db7f67f-125a-4a74-b7d3-de99595973ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restricted Holiday'])[1]/following::button[2]</value>
+      <webElementGuid>261ef1f2-ab69-48a1-9390-c791683bf7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hey, you have no regularization records to view'])[1]/preceding::button[2]</value>
+      <webElementGuid>edd9f86b-9bd0-46b6-95a8-bfb588aa2021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Closed']/parent::*</value>
+      <webElementGuid>bcc3a08b-e97c-4e10-ac61-d1e08cbf6e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>9f738658-7b5e-44b5-96df-ab2395149aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Closed ' or . = 'Closed ')]</value>
+      <webElementGuid>5100e8cd-c555-4606-afc1-58931108fdc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

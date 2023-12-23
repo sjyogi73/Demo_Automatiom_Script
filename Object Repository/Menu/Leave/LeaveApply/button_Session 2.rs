@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Session 2</name>
+   <tag></tag>
+   <elementGuidId>c6fa4323-12b6-4265-be57-0707a9df3a58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>gt-select-box[name=&quot;toSession&quot;] > div.select-box-container.btn-group > button.btn.dropdown-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9d02b76-6345-4b85-b098-59d80998ab40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37d09409-4de5-45ca-a647-5a73d9c61e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn dropdown-toggle</value>
+      <webElementGuid>9276b16e-81ad-40fc-a43b-218e39595432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>070780d5-e6ef-43a6-aaa7-56970d069482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Session 2 </value>
+      <webElementGuid>4632fe66-6e46-4932-bfe1-e17b40ce9109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;desktop-view&quot;]/div[@class=&quot;side-and-content&quot;]/div[@class=&quot;container-fluid app-container px-0&quot;]/div[@class=&quot;router-container pb-15 container-fluid&quot;]/leave-workflow[@class=&quot;ng-star-inserted&quot;]/section[1]/leave-wf-apply[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wf-apply&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-lg-9&quot;]/leave-apply[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;leave-apply&quot;]/div[@class=&quot;leave-apply-content&quot;]/form[@class=&quot;ng-touched ng-dirty ng-invalid&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[3]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-lg-9&quot;]/div[@class=&quot;date-picker-group ng-star-inserted&quot;]/div[2]/div[@class=&quot;form-group ng-star-inserted&quot;]/div[1]/gt-select-box[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;select-box-container btn-group&quot;]/button[@class=&quot;btn dropdown-toggle&quot;]</value>
+      <webElementGuid>cfa77cb2-e200-4f61-91af-0f6de695574a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>be366c5b-eb51-4df4-8769-c405d0fab374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sessions'])[2]/following::button[1]</value>
+      <webElementGuid>66ddecaf-545d-4ff8-b45d-07a5b0b57d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To date should be greater than from date'])[1]/following::button[1]</value>
+      <webElementGuid>77a81b34-a2f4-402a-8042-99d5be5a7c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balance:'])[1]/preceding::button[1]</value>
+      <webElementGuid>f90ff170-a03a-436a-ad83-ebb97d947d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/gt-select-box/div[2]/button</value>
+      <webElementGuid>460299ee-3da8-4e3c-86d7-6644b0a5e328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Session 2 ' or . = ' Session 2 ')]</value>
+      <webElementGuid>0bdf85ad-7e02-4c8c-a990-202722a7233b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

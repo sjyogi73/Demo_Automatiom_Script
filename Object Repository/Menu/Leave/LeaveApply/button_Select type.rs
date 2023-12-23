@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select type</name>
+   <tag></tag>
+   <elementGuidId>72ab9c5a-ddba-4ac1-ae36-057d86d6295b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.dropdown-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>86d630cb-3015-4575-86b1-2d0975f47e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aab419b4-0194-4f78-a812-def04ee2fa7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn dropdown-toggle</value>
+      <webElementGuid>6eaf02d2-f979-465d-b10a-0b10c632a80c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>dd77532c-39be-4ac6-a309-948b45e0a95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select type </value>
+      <webElementGuid>15531a67-e585-44da-ac97-0046396a7cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;desktop-view&quot;]/div[@class=&quot;side-and-content&quot;]/div[@class=&quot;container-fluid app-container px-0&quot;]/div[@class=&quot;router-container pb-15 container-fluid&quot;]/leave-workflow[@class=&quot;ng-star-inserted&quot;]/section[1]/leave-wf-apply[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wf-apply&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-lg-9&quot;]/leave-apply[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;leave-apply&quot;]/div[@class=&quot;leave-apply-content&quot;]/form[@class=&quot;ng-touched ng-dirty ng-invalid&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;leave-type-details&quot;]/div[1]/div[@class=&quot;form-group&quot;]/div[1]/gt-select-box[@class=&quot;ng-touched ng-dirty ng-invalid&quot;]/div[@class=&quot;select-box-container btn-group&quot;]/button[@class=&quot;btn dropdown-toggle&quot;]</value>
+      <webElementGuid>36e7c814-0c60-4018-9faa-1eda2cf226fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>a547b95a-0ebe-4521-93fc-eeca80692c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave type'])[1]/following::button[1]</value>
+      <webElementGuid>f0379ed8-b715-446a-b252-bf21e66828cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applying for Leave'])[1]/following::button[1]</value>
+      <webElementGuid>4a25820c-5a31-49c0-b836-10fa59709a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From date'])[1]/preceding::button[1]</value>
+      <webElementGuid>72db247a-bd00-4752-96e3-8143c413abe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>3fcce742-33a2-4034-928e-98afeb510efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Select type ' or . = ' Select type ')]</value>
+      <webElementGuid>f8161640-2008-44a9-9a87-0e78ca94d987</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

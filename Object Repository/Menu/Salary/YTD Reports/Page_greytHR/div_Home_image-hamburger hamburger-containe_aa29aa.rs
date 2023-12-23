@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Home_image-hamburger hamburger-containe_aa29aa</name>
+   <tag></tag>
+   <elementGuidId>dc46bbf9-1854-4492-bd86-207162797cda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.image-hamburger.hamburger-container.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0bf18b4-1389-4c41-a457-213fe9b7abbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image-hamburger hamburger-container ng-star-inserted</value>
+      <webElementGuid>060ff93e-5519-4f6f-ae1f-c28aacc230f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mobile-view&quot;]/gt-topbar[@class=&quot;ng-star-inserted&quot;]/nav[@class=&quot;navbar bg-secondary-50 navbar-fixed-top ng-star-inserted&quot;]/div[@class=&quot;page-title relative&quot;]/div[@class=&quot;image-hamburger hamburger-container ng-star-inserted&quot;]</value>
+      <webElementGuid>b8d92e85-75e1-4b29-8d10-ab58a3237fe9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div</value>
+      <webElementGuid>e8a8005c-a443-4537-ba10-5e470f066368</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

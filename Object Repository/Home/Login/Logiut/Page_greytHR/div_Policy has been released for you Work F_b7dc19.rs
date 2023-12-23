@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Policy has been released for you Work F_b7dc19</name>
+   <tag></tag>
+   <elementGuidId>71b61862-c2e9-42ac-9e3c-ad1218448b7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.image-gt-icon-logout.w-2x.h-2x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>89314b5b-57ad-47f1-bc87-7b6d9df8ea19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image-gt-icon-logout w-2x h-2x</value>
+      <webElementGuid>5a353a12-6256-4a58-902b-deba3efe5df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mobile-view&quot;]/gt-topbar[@class=&quot;ng-star-inserted&quot;]/nav[@class=&quot;navbar bg-secondary-50 navbar-fixed-top ng-star-inserted&quot;]/div[@class=&quot;menu&quot;]/a[@class=&quot;icon-link&quot;]/div[@class=&quot;image-gt-icon-logout w-2x h-2x&quot;]</value>
+      <webElementGuid>b0047f79-706f-433a-bf98-ff77378ae6b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div</value>
+      <webElementGuid>27100d24-aefb-41d2-bcd9-72edd49e5126</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>gt-ess-menu_View My Info_ng-star-inserted hydrated</name>
+   <tag></tag>
+   <elementGuidId>f2d6e1f7-b676-4651-8725-678ba827a8ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.transform.transition-all.w-full > gt-sidebar > #mainSidebar > perfect-scrollbar > div.ps > div.ps-content > gt-ess-menu.ng-star-inserted.hydrated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//aside[@id='mainSidebar']/perfect-scrollbar/div/div/gt-ess-menu)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>gt-ess-menu</value>
+      <webElementGuid>db2c8c75-150d-4bad-a3a3-53573c13591b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted hydrated</value>
+      <webElementGuid>cee6964c-6a91-41d1-9003-2133b6ed5de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mobile-view&quot;]/div[@class=&quot;side-and-content&quot;]/div[@class=&quot;fixed z-10 inset-0 block ng-star-inserted&quot;]/div[@class=&quot;flex h-screen&quot;]/div[@class=&quot;transform transition-all w-full&quot;]/gt-sidebar[1]/aside[@id=&quot;mainSidebar&quot;]/perfect-scrollbar[1]/div[@class=&quot;ps&quot;]/div[@class=&quot;ps-content&quot;]/gt-ess-menu[@class=&quot;ng-star-inserted hydrated&quot;]</value>
+      <webElementGuid>93fd5301-e87c-4ada-826a-bb2995fc8c01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//aside[@id='mainSidebar']/perfect-scrollbar/div/div/gt-ess-menu)[2]</value>
+      <webElementGuid>b0df7a01-4c73-4edd-8b35-05f9eb7d3f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/gt-sidebar/aside/perfect-scrollbar/div/div/gt-ess-menu</value>
+      <webElementGuid>6f496b35-ec97-454d-9382-0ed030fc9539</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Everyone</name>
+   <tag></tag>
+   <elementGuidId>2fb9875b-a258-4b51-be81-5b1fbd549436</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Starred'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7768d010-9c68-4ba3-8512-43229192eb49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+      <webElementGuid>74dc781a-6189-424a-b90b-66cdc22e673c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Everyone </value>
+      <webElementGuid>a616d741-8eb2-447c-a9ca-3124163324d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;desktop-view&quot;]/div[@class=&quot;side-and-content&quot;]/div[@class=&quot;container-fluid app-container px-0&quot;]/div[@class=&quot;router-container pb-15 container-fluid&quot;]/people[@class=&quot;ng-star-inserted&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row p-2x -m-2x&quot;]/div[@class=&quot;col-md-12 col-lg-12&quot;]/div[@class=&quot;directory-content&quot;]/div[@class=&quot;directory-header-nav&quot;]/div[@class=&quot;btn-group&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>09bb6291-3a46-4372-9a52-aa870ec6f8e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starred'])[1]/following::button[1]</value>
+      <webElementGuid>e7570811-0590-4170-80b9-e4bae2a1949e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View My Info'])[2]/following::button[2]</value>
+      <webElementGuid>a3068c8b-bbbc-4705-a08b-89f19d190322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Everyone']/parent::*</value>
+      <webElementGuid>0fd8c17c-6ae6-4368-b471-f3358fca10a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>d675a947-86a0-4b1d-ba6f-9b6b1c37639c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Everyone ' or . = 'Everyone ')]</value>
+      <webElementGuid>9f4a1d89-8c69-4b1c-8b0a-c13fd60582c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

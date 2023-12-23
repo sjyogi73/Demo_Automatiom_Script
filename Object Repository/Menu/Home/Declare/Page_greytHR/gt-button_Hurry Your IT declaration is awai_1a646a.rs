@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>gt-button_Hurry Your IT declaration is awai_1a646a</name>
+   <tag></tag>
+   <elementGuidId>dead5bac-9d77-4f33-905c-6da21511a11a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-end.mt-2x.ng-star-inserted > gt-button.hydrated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/gt-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>gt-button</value>
+      <webElementGuid>ebddf1ce-9395-48fd-aa9f-eba0ec54d48e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>shade</name>
+      <type>Main</type>
+      <value>secondary</value>
+      <webElementGuid>515bcf48-874a-448a-bb07-f1a9b56f9d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hydrated</value>
+      <webElementGuid>67566b99-a2c9-4ba5-8039-abd9c1daed80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mobile-view&quot;]/div[@class=&quot;side-and-content&quot;]/div[@class=&quot;container-fluid app-container px-0&quot;]/div[@class=&quot;router-container pb-15 container-fluid&quot;]/ghr-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page page-home ng-star-inserted&quot;]/div[@class=&quot;home-dashboard&quot;]/gt-home-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;gt-home-dashboard mb-1.5x&quot;]/div[@class=&quot;gt-widget-wrapper bg-white rounded-m border-secondary-200 hover:shadow-lg ng-star-inserted&quot;]/gt-component-loader[1]/gt-it-declartion-widget[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-1.5x ng-star-inserted&quot;]/div[@class=&quot;flex justify-end mt-2x ng-star-inserted&quot;]/gt-button[@class=&quot;hydrated&quot;]</value>
+      <webElementGuid>3941a144-d567-4f22-b84f-de95b0dfce9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/gt-button</value>
+      <webElementGuid>0000988c-c6ce-42ed-91a5-4c0aa2d37625</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

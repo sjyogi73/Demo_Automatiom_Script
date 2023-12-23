@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Tasks</name>
+   <tag></tag>
+   <elementGuidId>a3946965-628f-486c-862f-c83fcc828afd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-basic']/perfect-scrollbar/div/div/li[3]/div/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4a599700-0460-4494-822d-a6b8ebecc288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-regular bookmark-name text-5 text-overflow text-black</value>
+      <webElementGuid>fb78d89e-2fbd-454a-9b9a-fd9a20c3dea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Tasks</value>
+      <webElementGuid>4b117b17-6280-427b-aef5-f81e10b53761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tasks</value>
+      <webElementGuid>2f34f316-4501-4011-9b25-7616ad5f638b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-basic&quot;)/perfect-scrollbar[@class=&quot;scroll-bar&quot;]/div[@class=&quot;ps&quot;]/div[@class=&quot;ps-content&quot;]/li[@class=&quot;menu-item ng-star-inserted&quot;]/div[@class=&quot;bookmark&quot;]/a[@class=&quot;dropdown-item&quot;]/p[@class=&quot;text-regular bookmark-name text-5 text-overflow text-black&quot;]</value>
+      <webElementGuid>d6471c6e-0eab-4ad7-816b-c744de5f0aa7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-basic']/perfect-scrollbar/div/div/li[3]/div/a/p</value>
+      <webElementGuid>acb7b4ba-edaa-4bfd-a9e5-dedac4047e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::p[5]</value>
+      <webElementGuid>36b0d98f-f809-4da9-a9fd-0a51cf0b60fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(9)'])[1]/preceding::p[4]</value>
+      <webElementGuid>5c1261f9-04d9-474b-be72-97551edfd689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tasks']/parent::*</value>
+      <webElementGuid>37333ba0-9d5a-43c7-b7e5-1951c0330997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a/p</value>
+      <webElementGuid>77dc837b-7277-457a-a5be-9f71dbbd868c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@title = 'Tasks' and (text() = ' Tasks' or . = ' Tasks')]</value>
+      <webElementGuid>85ae6c86-db88-4555-bddf-1221ea03f0c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
