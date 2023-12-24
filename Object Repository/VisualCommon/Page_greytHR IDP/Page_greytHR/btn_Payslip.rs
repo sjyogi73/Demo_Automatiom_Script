@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Payslip</name>
+   <tag></tag>
+   <elementGuidId>88617d65-904d-4ac9-8085-c729a36a6031</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//gt-payslip-widget/div/header/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3cc0a13-6292-4a2e-960d-9fac9570395e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block image-gt-icon-widget h-2.5x w-2.5x</value>
+      <webElementGuid>9f0ac122-38a6-4faf-9758-79d74a7d6cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;desktop-view&quot;]/div[@class=&quot;side-and-content&quot;]/div[@class=&quot;container-fluid app-container px-0&quot;]/div[@class=&quot;router-container pb-15 container-fluid&quot;]/ghr-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page page-home ng-star-inserted&quot;]/div[@class=&quot;home-dashboard&quot;]/gt-home-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;gt-home-dashboard mb-1.5x&quot;]/div[@class=&quot;gt-widget-wrapper bg-white rounded-m border-secondary-200 hover:shadow-lg ng-star-inserted&quot;]/gt-component-loader[1]/gt-payslip-widget[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-1.5x widget-height ng-star-inserted&quot;]/header[@class=&quot;cursor-pointer outline-none flex items-center justify-between mb-1.5x&quot;]/span[@class=&quot;inline-block image-gt-icon-widget h-2.5x w-2.5x&quot;]</value>
+      <webElementGuid>4621ea70-ca09-4aab-91ae-4e3712b02168</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//gt-payslip-widget/div/header/span</value>
+      <webElementGuid>b9c3bcbb-05eb-4c82-87b9-0a2cb8cdc297</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

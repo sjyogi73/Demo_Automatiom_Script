@@ -25,6 +25,8 @@ WebUI.delay(5)
 
 WebUI.takeElementScreenshotAsCheckpoint('Login Dialog Origin', LoginObject)
 
+WebUI.takeScreenshotAsCheckpoint("Login Dialog")
+
 WebUI.setText(findTestObject('Object Repository/Home/Login/Page_greytHR IDP/input_Login ID_username'), GlobalVariable.user)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Home/Login/Page_greytHR IDP/input_Password_password'), GlobalVariable.password)
@@ -34,6 +36,8 @@ WebUI.takeElementScreenshotAsCheckpoint('Login Dialog With Data', LoginObject)
 
 // Check login section with data using TestOps Visual Testing
 WebUI.takeElementScreenshotAsCheckpoint('Visit Button', DateObject)
+
+WebUI.takeElementScreenshotAsCheckpoint('Visit Button', forgetPWDObject)
 
 WebUI.click(findTestObject('Object Repository/Home/Login/Page_greytHR IDP/button_Log in'))
 

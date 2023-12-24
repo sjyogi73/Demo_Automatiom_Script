@@ -17,6 +17,30 @@
       <value></value>
       <variableId>17a7bc85-abe7-4009-9468-2d5674e033e7</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>680ac02c-f9d7-4cf2-88c5-b11c76842bdc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26155f52-1cf2-417f-8344-e862cd1d05ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f647280-b446-4be3-ad7b-1e7cfa409446</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ba27160-e264-4e05-9274-38862d471cb8</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>findTestObject('VisualCommon/Page_greytHR IDP/Home_Object')</defaultValue>
       <description></description>
@@ -30,5 +54,33 @@
       <id>17a7bc85-abe7-4009-9468-2d5674e033e7</id>
       <masked>false</masked>
       <name>PayslipDialogObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('VisualCommon/Page_greytHR IDP/Page_greytHR/btn_declaration')</defaultValue>
+      <description></description>
+      <id>680ac02c-f9d7-4cf2-88c5-b11c76842bdc</id>
+      <masked>false</masked>
+      <name>declarationObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('VisualCommon/Page_greytHR IDP/Page_greytHR/btn_Payslip')</defaultValue>
+      <description></description>
+      <id>26155f52-1cf2-417f-8344-e862cd1d05ab</id>
+      <masked>false</masked>
+      <name>PayslipButtonObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('VisualCommon/Page_greytHR IDP/Page_greytHR/btn_SignIn')</defaultValue>
+      <description></description>
+      <id>0f647280-b446-4be3-ad7b-1e7cfa409446</id>
+      <masked>false</masked>
+      <name>ButtonSignObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('VisualCommon/Page_greytHR IDP/Page_greytHR/dialog_TrackAll')</defaultValue>
+      <description></description>
+      <id>6ba27160-e264-4e05-9274-38862d471cb8</id>
+      <masked>false</masked>
+      <name>TrackDialogObject</name>
    </variable>
 </TestCaseEntity>

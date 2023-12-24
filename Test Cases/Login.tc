@@ -17,6 +17,12 @@
       <value></value>
       <variableId>87e004ff-83df-44f9-9673-47728bb4e780</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e0e67e0-e696-4328-9096-d1bc68a7e8c0</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>findTestObject('VisualCommon/Page_greytHR IDP/LoginDialog')</defaultValue>
       <description></description>
@@ -30,5 +36,12 @@
       <id>87e004ff-83df-44f9-9673-47728bb4e780</id>
       <masked>false</masked>
       <name>DateObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('VisualCommon/Page_greytHR IDP/Page_greytHR/a_Forgot')</defaultValue>
+      <description></description>
+      <id>9e0e67e0-e696-4328-9096-d1bc68a7e8c0</id>
+      <masked>false</masked>
+      <name>forgetPWDObject</name>
    </variable>
 </TestCaseEntity>
