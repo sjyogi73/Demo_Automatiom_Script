@@ -21,6 +21,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.takeScreenshotAsCheckpoint('Home')
 
+WebUI.takeElementScreenshotAsCheckpoint('Home page Dialog validation', AppointmentDialogObject)
+
+WebUI.delay(5)
+
+WebUI.takeElementScreenshotAsCheckpoint('Payslip dialog validation', PayslipDialogObject)
+
+
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/span_Payslip_inline-block image-gt-icon-wid_46ee29'))
 
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/span_Nov 2023'))
@@ -28,6 +35,9 @@ WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/spa
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/a_Oct 2023'))
 
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/button_Oct 2023'))
+
+// Check Full Appointment with TestOps Visual Testing
+WebUI.takeFullPageScreenshotAsCheckpoint('Review Payslip')
 
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/a_Sep 2023'))
 

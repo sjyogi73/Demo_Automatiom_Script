@@ -5,4 +5,30 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>1a981b8e-3210-4cdb-aba3-334c330d97c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fed3f32e-4dd8-4600-89cb-c534246ad024</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17a7bc85-abe7-4009-9468-2d5674e033e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('VisualCommon/Page_greytHR IDP/Home_Object')</defaultValue>
+      <description></description>
+      <id>fed3f32e-4dd8-4600-89cb-c534246ad024</id>
+      <masked>false</masked>
+      <name>AppointmentDialogObject</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('VisualCommon/Page_greytHR IDP/Payslip_Dialog')</defaultValue>
+      <description></description>
+      <id>17a7bc85-abe7-4009-9468-2d5674e033e7</id>
+      <masked>false</masked>
+      <name>PayslipDialogObject</name>
+   </variable>
 </TestCaseEntity>

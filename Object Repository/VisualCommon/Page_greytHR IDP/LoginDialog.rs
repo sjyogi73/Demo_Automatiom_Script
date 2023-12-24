@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LoginDialog</name>
+   <tag></tag>
+   <elementGuidId>938135a8-b1d5-4d61-85e6-0d1bc948a56b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//o-auth/section</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.d-flex.flex-grow-1.h-auto.shadow-nx.rounded-gt-md-7.p-12.w-fit-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>9b5ba923-d917-4ea1-bfaf-0a8b48c044cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-grow-1 h-auto shadow-nx rounded-gt-md-7 p-12 w-fit-content</value>
+      <webElementGuid>0620eb3b-4452-4199-9d57-565d11797d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello there! 👋Login IDPassword Forgot password?  Log in Or sign in with</value>
+      <webElementGuid>f7348b7a-5b55-4010-9a8f-361f295352ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/uas-portal[1]/div[@class=&quot;h-100 d-flex app w-100 overflow-hidden&quot;]/div[@class=&quot;container-fluid d-flex flex-column px-0&quot;]/main[@class=&quot;d-flex flex-grow-1 h-100 w-100 md:mt-0 sm:mt-55 mt-50&quot;]/div[@class=&quot;container-fluid align-self-center&quot;]/section[@class=&quot;row flex-nowrap min-h-section&quot;]/div[@class=&quot;article m-auto mt-0 sm:mt-auto sm:pl-15x sm:self-center md:pt-0&quot;]/o-auth[1]/section[@class=&quot;d-flex flex-grow-1 h-auto shadow-nx rounded-gt-md-7 p-12 w-fit-content&quot;]</value>
+      <webElementGuid>b12131a6-d62b-417a-826e-1f6d268131af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//o-auth/section</value>
+      <webElementGuid>c026b9d5-cee4-4e9d-8eec-e438d24d901b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Hello there! 👋Login IDPassword Forgot password?  Log in Or sign in with' or . = 'Hello there! 👋Login IDPassword Forgot password?  Log in Or sign in with')]</value>
+      <webElementGuid>25849913-834d-473a-af71-08f21b83385d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,6 +17,18 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d000843c-64bf-4d17-aadd-c50d020be716</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>87e004ff-83df-44f9-9673-47728bb4e780</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>2d25b3a1-3f18-4241-961d-9a2aaf2ec7c3</guid>
@@ -24,5 +36,17 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Operations/Home/Payslip</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fed3f32e-4dd8-4600-89cb-c534246ad024</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>17a7bc85-abe7-4009-9468-2d5674e033e7</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
