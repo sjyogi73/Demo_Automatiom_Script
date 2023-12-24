@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 //WebUI.callTestCase(findTestCase('Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.takeScreenshotAsCheckpoint('Home')
+
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/div_Home_image-gt-icon-notification h-2x w-2x'))
 
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/p_Message Center'))

@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 //WebUI.callTestCase(findTestCase('Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.takeScreenshotAsCheckpoint('Home')
+
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/span_Payslip_inline-block image-gt-icon-wid_46ee29'))
 
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/span_Nov 2023'))

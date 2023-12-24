@@ -21,11 +21,16 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.url)
 
-WebUI.setText(findTestObject('Object Repository/Home/Login/Page_greytHR IDP/input_Login ID_username'),GlobalVariable.user )
+WebUI.setText(findTestObject('Object Repository/Home/Login/Page_greytHR IDP/input_Login ID_username'), GlobalVariable.user)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Home/Login/Page_greytHR IDP/input_Password_password'), GlobalVariable.password)
 
 WebUI.click(findTestObject('Object Repository/Home/Login/Page_greytHR IDP/button_Log in'))
 
+WebUI.takeScreenshotAsCheckpoint('Login')
+
+WebUI.delay(5)
+
 'Maximize current window'
 WebUI.maximizeWindow()
+
