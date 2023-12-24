@@ -23,9 +23,6 @@ WebUI.takeElementScreenshotAsCheckpoint('Home page Dialog validation', Appointme
 
 WebUI.delay(5)
 
-WebUI.takeScreenshotAsCheckpoint('Hone')
-
-
 WebUI.takeElementScreenshotAsCheckpoint('Payslip dialog validation', PayslipDialogObject)
 
 WebUI.takeElementScreenshotAsCheckpoint('Payslip dialog validation', declarationObject)
@@ -44,8 +41,6 @@ WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/spa
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/a_Oct 2023'))
 
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/button_Oct 2023'))
-
-WebUI.takeScreenshotAsCheckpoint('Payslip')
 
 // Check Full Appointment with TestOps Visual Testing
 WebUI.takeFullPageScreenshotAsCheckpoint('Review Payslip')
