@@ -42,8 +42,5 @@ WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/a_O
 
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/button_Oct 2023'))
 
-// Check Full Appointment with TestOps Visual Testing
-WebUI.takeFullPageScreenshotAsCheckpoint('Review Payslip')
-
 WebUI.click(findTestObject('Object Repository/Menu/Home/Declare/Page_greytHR/a_Sep 2023'))
 
